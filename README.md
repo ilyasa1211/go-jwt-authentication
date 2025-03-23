@@ -1,4 +1,4 @@
-# Json Web Token Authentication in Go
+# JSON Web Token Authentication in Go
 
 > Disclaimer: This repository is not about implementing the JWT itself.
 > Rather it was about applying JWT to get access to a protected backend service
