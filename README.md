@@ -8,6 +8,11 @@
 - Login & Register
 - CRUD user operation for authenticated user
 
+## Requirements
+
+- SQLite3
+- Go language (version 1.24+)
+
 ## Limitations
 
 - Update user won't update it's password
